@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Gloria Choe - Portfolio
+    </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <p>
+      my name is gloria Choe. art & design are the only language i know that can speak the truth without words. And I speak it with all that I am, as a marketer and a designer at heart. 
+    </p>
+    <img id="goo" src="https://i.pinimg.com/736x/bf/e4/39/bfe4397eea264a9cd2369c7d1583245b.jpg" alt="goo photo"> 
+  </body>
+</html>
